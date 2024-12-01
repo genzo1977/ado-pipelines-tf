@@ -10,7 +10,7 @@ variables:
   terraformVersion: '1.5.5'  # Specify the Terraform version
   azureServiceConnection: 'azurerm'  # Azure service connection name
   backendResourceGroup: 'skink-rg' # Remote backend Resource Group
-  backendStorageAccount: 'skinktfstate'  # Remote backend storage account
+  backendStorageAccount: 'skinktfstate12349876'  # Remote backend storage account
   backendContainer: 'tfstate'  # Remote backend storage container
   backendKey: 'terraform.tfstate'  # State file name in remote backend
 
